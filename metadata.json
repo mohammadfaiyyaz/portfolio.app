@@ -1,0 +1,8 @@
+{
+  "name": "Faiyyaz-Portfolio-app",
+  "description": "Production-grade portfolio and telemetry console for Mohammad Faiyyaz, Full Stack .NET Developer & Software Engineer specializing in enterprise healthcare ERPs and high-throughput microservices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
